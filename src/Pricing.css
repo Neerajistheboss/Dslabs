@@ -1,0 +1,30 @@
+#pricinghead{
+/*background: #F1586A;*/
+    background: #f4f4f4;
+    padding-top: 50px;
+    color: #F1586A;
+}
+
+.pricing{
+    /*background: #F1586A;*/
+    padding-top: 60px;
+    background: #f4f4f4;
+
+}
+
+.pricingcontainer{
+    /*background-color: #F1586A;*/
+    background: #f4f4f4;
+    border-top: 1px solid #FFFFFF;
+    justify-content: center;
+}
+
+.row{
+    justify-content: center;
+}
+
+.section{
+    display: block;
+}
+
+

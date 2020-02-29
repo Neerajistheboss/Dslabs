@@ -1,0 +1,43 @@
+#servicehead{
+    /*background: #F1586A;*/
+    background: #f4f4f4;
+    padding-bottom: 60px !important;
+    padding-top: 5vh;
+    width: 100% !important;
+    min-width: 100%;
+    margin: auto;
+    color: #F1586A;
+
+}
+
+/*#pricinghead{*/
+/*    background: #F1586A;*/
+/*}*/
+
+#Services{
+    /*background: #F1586A;*/
+    background: #f4f4f4;
+    width: 100% !important;
+
+}
+
+
+
+.section{
+    width: 100%;
+   display: block;
+}
+
+
+
+.servicecontainer{
+    width: 100% !important;
+    /*background-color: #F1586A;*/
+    background: #f4f4f4;
+
+}
+
+
+
+
+

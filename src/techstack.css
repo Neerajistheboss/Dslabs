@@ -1,0 +1,60 @@
+#techstackhead{
+    /*background: #F1586A;*/
+    background: #ffffff;
+    padding-top: 20px;
+    padding-top: 50px;
+    width: 100%;
+    color: #F1586A;
+}
+
+#tek{
+    width: 100% !important;
+}
+
+.techstack{
+    padding-top: 80px;
+    /*background: #F1586A;*/
+    background: #ffffff;
+    width: 60% !important;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.techstackcontainer{
+    /*background-color:#F1586A;*/
+    background: #ffffff;
+    border-top: 1px solid #FFFFFF;
+}
+
+
+.logo{
+    width: 300px;
+    height: 200px;
+
+}
+
+.section{
+    display: block;
+}
+
+
+/* Disable grayscale on hover */
+
+
+.techicon{
+    font-size: 100px;
+    /*color: #FFFFFF;*/
+    color: #F1586A;
+    padding: 10px !important;
+    /*line-height: 50px;*/
+    letter-spacing: 10px;
+}
+
+.techtext{
+    font-size: 25px;
+    color: #F1586A;
+    padding: 2px !important;
+    line-height: 70px;
+    letter-spacing: 1px;
+}

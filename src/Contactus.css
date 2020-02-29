@@ -1,0 +1,37 @@
+#contacthead{
+    /*background: #464646;*/
+    background: #f4f4f4;
+    padding-top: 50px;
+    /*border-top: #FFFFFF 1px solid;*/
+    color: #F1586A;
+}
+
+.contactus{
+    /*background: #464646;*/
+    background: #f4f4f4;
+    display: block;
+    /*color: white;*/
+    color: #858585;
+    font-size: 18px;
+    line-height: 50px;
+    padding-top: 80px;
+    align-items: center;
+}
+
+.contactcontainer{
+    border-top: #858585 1px solid;
+    /*background-color: #464646;*/
+    background: #f4f4f4;
+    padding-bottom: 100px;
+
+}
+
+.address{
+    text-align: start;
+
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left:3%;
+    margin-bottom: 5%;
+}
